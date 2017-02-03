@@ -1,0 +1,57 @@
+* {
+  font-family: 'Quicksand', sans-serif;
+  text-align: center;
+}
+body{
+  margin: 0;
+}
+ul {
+  list-style: none;
+  padding-right: 18%;
+  padding-left: 18%;
+  margin: 0;
+}
+
+li {
+  background-color: white;
+  list-style: none;
+  text-align: left;
+  padding-left: 8px;
+}
+input {
+  height: 35px;
+  width: 64%;
+  font-size: 15px;
+  text-align: left;
+  border: none;
+  border-radius: 3px;
+}
+.weatherContent{
+margin: 10px;
+
+}
+.weatherSide {
+  width: 50%;
+  height: 1000px;
+  display: inline-block;
+  background-color: #DDFFF7;
+  margin: 0;
+
+
+}
+
+.stackContent{
+margin: 10px;
+
+}
+
+.stackSide {
+  width: 50%;
+  height: 1000px;
+  display: inline-block;
+  background-color: white;
+  float: right;;
+  background-color: #A1B0AB;
+  margin: 0;
+
+}
